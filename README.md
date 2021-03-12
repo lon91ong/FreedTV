@@ -14,8 +14,8 @@ webPlugNavigation.json | 云插件接口
 
 [下载](https://wwi.lanzous.com/b025mpw7e) <br>
 选择自建接口，输入 
-- 默认：`https://github.com/artxia/FreedTV/raw/main/tv/`
-- 大陆：`https://cdn.jsdelivr.net/gh/artxia/FreedTV@main/tv/`
+- 默认：`https://github.com/lon91ong/FreedTV/raw/main/tv/`
+- 大陆：`https://raw.sevencdn.com/lon91ong/FreedTV/main/tv/`
 
 
 # FreeD
